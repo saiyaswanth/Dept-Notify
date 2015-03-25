@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeptAllStage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logout">Logout</string>
+	<string name="openDrawerContentDescRes">opened</string>
+    <string name="closeDrawerContentDescRes">closed</string>
+    <string-array name="planets">
+        <item >Notifcations</item>
+        <item >Schedules</item>
+        <item >TeachingStaff</item>
+        <item >QUEST</item>
+        <item >Special Notice</item>
+    </string-array>
+    	<string name="asf">Server Problem</string>
+	<string-array name="pokemon">
+	    <item >pikachu</item>
+		<item >charizaaard</item>
+		<item >bulbasaar</item>
+		<item >squatal</item>
+		<item >mux</item>
+	</string-array>
+</resources>
